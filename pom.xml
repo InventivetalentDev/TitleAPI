@@ -39,7 +39,6 @@
 
     <build>
         <finalName>TitleAPI_v${project.version}</finalName>
-        <sourceDirectory>src</sourceDirectory>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
