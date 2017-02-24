@@ -1,0 +1,7 @@
+name: TitleAPI
+main: org.inventivetalent.title.TitlePlugin
+author: inventivetalent
+version: ${project.version}
+
+
+softdepend: [PlayerVersion, PacketListenerApi]
